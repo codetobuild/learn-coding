@@ -13,9 +13,9 @@ Welcome to the **Programming Learning Resources** repository! This repo contains
 ## Programming Languages
 
 ### C++
-- [C++ Get started - Programiz](https://www.programiz.com/cpp-programming/getting-started) - Learn basic syntax and control flow
-- [C++ - learncpp](https://www.learncpp.com/) - From basics to advanced C++ programming
-- [C++ - cplusplus](https://cplusplus.com/doc/tutorial/) - Comprehensive C++ programming tutorials
+- [C++ Get started Programiz](https://www.programiz.com/cpp-programming/getting-started) - Learn basic syntax and control flow
+- [C++ learncpp](https://www.learncpp.com/) - From basics to advanced C++ programming
+- [C++ cplusplus](https://cplusplus.com/doc/tutorial/) - Comprehensive C++ programming tutorials
 
 ## Data Structures and Algorithms
 
